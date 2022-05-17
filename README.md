@@ -11,7 +11,7 @@ OpenAuth is a Library that provides a variety of authentication methods using De
     - [ ] Google
     - [ ] Apple
     - [ ] Twitter
-    - [ ] Spotify
+    - [x] Spotify
     - [x] Discord
     - [ ] Microsoft
     - [ ] Facebook
